@@ -1,3 +1,3 @@
 # Brandity
 
-This is a group project for the web development class.
+This is a final group project for the web development class.
